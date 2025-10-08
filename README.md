@@ -31,7 +31,7 @@
 
 ### 📫 Connect With Me
 - [🌐 Portfolio](https://vjmsp.pythonanywhere.com/)
-- [💼 LinkedIn](https://linkedin.com/in/joshivishalbvn]
+- [💼 LinkedIn](https://linkedin.com/in/joshivishalbvn)
 - [📧 Email](mailto:vishaljoshi.info@gmail.com)
 
 ---
