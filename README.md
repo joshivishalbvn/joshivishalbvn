@@ -30,10 +30,9 @@
 ---
 
 ### 📫 Connect With Me
-- [🌐 Portfolio](https://yourwebsite.com)
-- [💼 LinkedIn](https://linkedin.com/in/joshivishalbvn)
-- [🐦 Twitter](https://twitter.com/yourhandle)
-- [📧 Email](mailto:your.email@example.com)
+- [🌐 Portfolio]([https://yourwebsite.com](https://vjmsp.pythonanywhere.com/))
+- [💼 LinkedIn]([https://linkedin.com/in/joshivishalbvn](https://www.linkedin.com/in/vishal-joshi-python?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [📧 Email](mailto:vishaljoshi.info@gmail.com)
 
 ---
 
